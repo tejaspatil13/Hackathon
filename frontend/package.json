@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@radix-ui/react-slot": "^1.1.2",
     "classnames": "^2.5.1",
+=======
+    "axios": "^1.7.9",
+>>>>>>> 5e9da81 (ddd)
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
